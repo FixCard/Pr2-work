@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Munka\Pr2-work\lab-05\lab-05\FileName.cpp(41,9): warning C4101: 'j': unreferenced local variable
+  lab-05.vcxproj -> C:\Munka\Pr2-work\lab-05\x64\Debug\lab-05.exe
